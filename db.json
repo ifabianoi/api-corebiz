@@ -23,7 +23,7 @@
     ],
     "products":[
     {
-      "id": 1,
+      "productId": 1,
       "productName": "SAPATO FLOATER PRETO",
       "stars": 1,
       "imageUrl": "https://corebiz-test.herokuapp.com/images/product-1.png",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": 2,
+      "productId": 2,
       "productName": "SANDÁLIA LINHO BROWN",
       "stars": 4,
       "imageUrl": "https://corebiz-test.herokuapp.com/images/product-2.png",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "id": 3,
+      "productId": 3,
       "productName": "BOTA MUSTANG PRETO",
       "stars": 2,
       "imageUrl": "https://corebiz-test.herokuapp.com/images/product-3.png",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "id": 4,
+      "productId": 4,
       "productName": "CINTO SEMICROMO PRETO 40MM",
       "stars": 3,
       "imageUrl": "https://corebiz-test.herokuapp.com/images/product-4.png",
@@ -74,13 +74,13 @@
       "installments": []
     }, 
     {
-        "productId": 5,
-        "productName": "MEIA SPORTWEAR PRETA",
-        "stars": 5,
-        "imageUrl": "https://corebiz-test.herokuapp.com/images/product-5.png",
-        "listPrice": null,
-        "price": 1400,
-        "installments": []
+      "productId": 5,
+      "productName": "MEIA SPORTWEAR PRETA",
+      "stars": 5,
+      "imageUrl": "https://corebiz-test.herokuapp.com/images/product-5.png",
+      "listPrice": null,
+      "price": 1400,
+      "installments": []
     }
   ]
 }
